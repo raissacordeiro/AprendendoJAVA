@@ -1,0 +1,22 @@
+Faça um programa que receba...
+
+Ex1 - Dois números e verifique se ambos são diferentes de 0.
+
+Ex2 - Um número e verificar se é maior que 10.
+
+Ex3 - A quantidade de produtos pretendida para compra e calcule o desconto obtido, sendo 5 % para todos os usuários e 15% para compras acima de 20 itens.
+
+Ex4 - Um valor e verifique se é positivo ou negativo
+
+Ex5 - Uma nota de 0 a 10 e informe aprovado para notas maiores ou iguais a 7 e reprovado para o restante.
+
+Ex6 - Um número e verifique se esse número é menor que 10, maior ou igual a 10 e menor que 20, maior ou igual a 30 ou maior que 30.
+Obs.: Utilize o "if" encadeado (if dentro de if) ou o "else if". Não utilizar o operador lógico OU (||).
+
+Ex7 - Construa um programa que leia 4 notas, a quantidade de faltas verifique se o aluno está aprovado ou reprovado.
+Obs.: Para ser aprovado o aluno deve possuir média maior ou igual a 7 e falta menor que 10.
+
+Ex8 - Um ano de nascimento e calcule a idade (comparar com o ano atual) para validadr se a pessoa está apta para votar ou não.
+Obs.: Não verificar o mês / dia e considerar que pessoas maiores de 18 anos podem votar.
+
+Ex9 - As  

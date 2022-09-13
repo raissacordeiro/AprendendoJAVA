@@ -1,0 +1,43 @@
+Declaração de variável ( let var ou const)
+
+let x = 0; // criar uma variabel do tipo let, sendo a variavel chamada de x e atribui (=) p valor 0.
+O valor 0 é do tipo number
+
+if (condição) { // SE (condição) a condição for verdade, então, o que está entre chaves ("{}") será executado.
+}
+
+else{ // SENÃO (else) já validou a condição como falsa, então o que está entre chaves ("{}") será executado.
+
+let x = 10;
+
+if (x <= 10){
+	console.log("O número é menor ou igual a 10");
+}
+
+else {
+	console.log("O número é maior que 10");
+}
+
+___________________________________________________________________________________________________________________________________
+
+Exercícios:
+
+1: Faça um programa que receba dois números e verifique se ambos são diferentes de 0.
+
+2: Faça um programa que receba um valor e verifique se ele é maior que 10
+
+3: Faça um programa que verifique a quantidade de itens comprados e que pretende ser comprado e se essa quantidade for maior que 20
+acrescente um desconto de 10% para o usuário, caso o contrário, somente 5%.
+
+4: Um valor e verifique se é positivo ou negativo
+
+5: Uma nota de 0 a 10 e informe aprovado para notas maiores ou iguais a 7 e reprovado para o restante.
+
+6: Um número e verifique se esse número é menor que 10, maior ou igual a 10 e menor que 20, maior ou igual a 30 ou maior que 30.
+Obs.: Utilize o "if" encadeado (if dentro de if) ou o "else if". Não utilizar o operador lógico OU (||).
+
+7: Construa um programa que leia 4 notas, a quantidade de faltas verifique se o aluno está aprovado ou reprovado.
+Obs.: Para ser aprovado o aluno deve possuir média maior ou igual a 7 e falta menor que 10.
+
+8: Um ano de nascimento e calcule a idade (comparar com o ano atual) para validade se a pessoa está apta para votar ou não.
+Obs.: Não verificar o mês / dia e considerar que pessoas maiores de 18 anos podem votar.

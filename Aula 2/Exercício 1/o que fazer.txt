@@ -1,0 +1,11 @@
+Faça um programa de imposto de renda.
+
+Solicite ao usuário seu nome, CPF, e salário. Calcule o imposto de renda de 15% do seu salário e mostre as informações para o usuário.
+
+______________________________________________________________________________________________________________________________________
+
+Funções utilizadas:
+
+prompt("mensagem") -> retorna a informação digitada pelo usuário em STRING
+
+parseFloat(STRING) -> retorna a STRING informada em formato de number com a casa decimal.

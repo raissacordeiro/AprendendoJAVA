@@ -1,0 +1,16 @@
+Exercício 1:
+
+1) Identifique o tipo de dados dos seguintes valores:
+
+(a) "9 de agosto de 1963" R: number
+(b) 1.3 R: string
+(c) Falso R: undefined
+(d) "?" R: null
+
+2) Escreve o tipo de dado ideal para se representar cada uma das seguintes informações
+
+(a) O nome de uma rua R: number
+(b) Número de quartos de uma casa R: boolean
+(c) Se uma pessoa é diabética ou não R: number
+(d) O saldo de uma conta bancária R: string
+(e) O resultado de uma operação de raiz quadrada R: undefined
